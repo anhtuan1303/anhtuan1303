@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Huu Anh Tuan</h1>
-- 🔭 I’m currently studying at FPT University Da Nang
+- 🔭 I’m currently studying at [FPT University Da Nang](https://www.facebook.com/daihocfptdanang)
 
 - ⚡ In my free time **I read manga, hang out with my friends, or do volunteer works**
 
@@ -14,7 +14,7 @@
     <img src="https://camo.githubusercontent.com/0c2489a644cea20436418e5a488b2f05fe3f71d721ed94a3d218dcc8f1f0f3f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/github.png" style="max-width: 100%;">
 </a>
 <a href="mailto:tuannha.ber133@gmail.com" alt="Email">
-    <img align="center" src="https://camo.githubusercontent.com/ce82dc79b3be56b26e6ad717e32f4c52a477280226b93bd121be17bce016c5e2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6d61696c696e672e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/mailing.png" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/ce82dc79b3be56b26e6ad717e32f4c52a477280226b93bd121be17bce016c5e2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6d61696c696e672e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/mailing.png" style="max-width: 100%;">
   </a>
 </p>
 
