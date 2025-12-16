@@ -6,8 +6,16 @@
 - 🌱 I’m currently learning **Coding and Japanese**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/bon.1303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bon.1303" height="30" width="40" /></a>
+<p align="center" dir="auto">
+<a href="https://www.facebook.com/bon.1303" alt="Facebook" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/8203a2d5e5c902439094cba712e7f33067fa6a6e2d2f735160ea66541ef1dfa4/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f66616365626f6f6b2d6e65772e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/facebook-new.png" style="max-width: 100%;">
+  </a>
+<a href="https://github.com/anhtuan1303" alt="Github">
+    <img src="https://camo.githubusercontent.com/0c2489a644cea20436418e5a488b2f05fe3f71d721ed94a3d218dcc8f1f0f3f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/github.png" height="30" width="40">
+</a>
+<a href="mailto:tuannha.ber133@gmail.com" alt="Email">
+    <img align="center" src="https://camo.githubusercontent.com/ce82dc79b3be56b26e6ad717e32f4c52a477280226b93bd121be17bce016c5e2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6d61696c696e672e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/mailing.png" height="30" width="40">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
