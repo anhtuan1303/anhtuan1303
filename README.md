@@ -1,100 +1,157 @@
-<h1 align="center">Hi 👋, I'm Nguyen Huu Anh Tuan</h1>
+<h1 align="center">Hi there, 👋 I'm Nguyen Huu Anh Tuan</h1>
 
-- 🔭 I’m currently studying at [FPT University Da Nang](https://www.facebook.com/daihocfptdanang)
-- ⚡ In my free time **I read manga, hang out with my friends, or do volunteer works**
-- 🌱 I’m currently learning **Coding and Japanese**
+###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
-<p align="center" dir="auto">
-  <a href="https://www.facebook.com/bon.1303" alt="Facebook" rel="nofollow" style="text-decoration: none;">
-    <img src="https://camo.githubusercontent.com/8203a2d5e5c902439094cba712e7f33067fa6a6e2d2f735160ea66541ef1dfa4/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f66616365626f6f6b2d6e65772e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/facebook-new.png" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/anhtuan1303" alt="Github" style="text-decoration: none;">
-    <img src="https://camo.githubusercontent.com/0c2489a644cea20436418e5a488b2f05fe3f71d721ed94a3d218dcc8f1f0f3f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/github.png" style="max-width: 100%;">
-  </a>
-  <a href="mailto:tuannha.ber133@gmail.com" alt="Email" style="text-decoration: none;">
-    <img src="https://camo.githubusercontent.com/ce82dc79b3be56b26e6ad717e32f4c52a477280226b93bd121be17bce016c5e2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6d61696c696e672e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/mailing.png" style="max-width: 100%;">
-  </a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="left">- 📚 I'm currently studying Coding and Japanese<br>- ⚡ In my free time I read manga, and hang out with my friends</p>
 
-<p align="left">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="width: 40px"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="width: 40px"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://www.chartjs.org/media/logo-title.svg" style="width: 40px"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="width: 40px"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="width: 40px"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="width: 40px"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="width: 40px"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="width: 40px"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="width: 40px"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="width: 40px"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="width: 40px"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="width: 40px"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="width: 40px"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width: 40px"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="width: 40px"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="width: 40px"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="width: 40px"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="width: 40px"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="width: 40px"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="width: 40px"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="width: 40px"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="width: 40px"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="width: 40px"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display:inline-block; margin:6px; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="width: 40px"/>
-  </a>
-</p>
+###
 
-<p><img align="left" src="https://readme-stats-github.pages.dev/api?username=anhtuan1303&theme=shadow" alt="anhtuan1303" /></p>
+<p align="left">Connect with me</p>
 
-<p>&nbsp;<img align="center" src="https://readme-stats-github.pages.dev/api/top-langs?username=anhtuan1303&theme=shadow" alt="anhtuan1303" /></p>
+###
+
+<div align="left">
+  <a href="https://www.facebook.com/bon.1303/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="mailto:tuannha.ber133@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/anh-tuấn-nguyễn-hữu-633016328" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🛠 Technology and tools</h3>
+
+###
+
+<p align="left">Programming languages</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+</div>
+
+###
+
+<p align="left">Frameworks</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<p align="left">Libraries</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
+</div>
+
+###
+
+<p align="left">Database and Cloud Services</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<p align="left">Softwares and Tools</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
