@@ -20,6 +20,29 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<p align="left">
+  <span>
+    <a href="https://azure.microsoft.com/en-in/" rel="nofollow">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+    </a>
+  </span>
+  <span>
+    <a href="https://getbootstrap.com" rel="nofollow">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    </a>
+  </span>
+  <span>
+    <a href="https://www.chartjs.org" rel="nofollow">
+      <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+    </a>
+  </span>
+  <span>
+    <a href="https://www.w3schools.com/cs/" rel="nofollow">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+    </a>
+  </span>
+  </p>
+
 <p><img align="left" src="https://readme-stats-github.pages.dev/api?username=anhtuan1303&theme=shadow" alt="anhtuan1303" /></p>
 
 <p>&nbsp;<img align="center" src="https://readme-stats-github.pages.dev/api/top-langs?username=anhtuan1303&theme=shadow" alt="anhtuan1303" /></p>
