@@ -1,3 +1,9 @@
+<style>
+  a {
+    text-decoration: none !important;
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm Nguyen Huu Anh Tuan</h1>
 - 🔭 I’m currently studying at [FPT University Da Nang](https://www.facebook.com/daihocfptdanang)
 
