@@ -23,22 +23,22 @@
 <p align="left">
   <span>
     <a href="https://azure.microsoft.com/en-in/" rel="nofollow">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" style="max-width: 100%;">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" style="width: 40px;">
     </a>
   </span>
   <span>
     <a href="https://getbootstrap.com" rel="nofollow">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="max-width: 100%;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="width: 40px;">
     </a>
   </span>
   <span>
     <a href="https://www.chartjs.org" rel="nofollow">
-      <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" style="max-width: 100%;">
+      <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" style="width: 40px;">
     </a>
   </span>
   <span>
     <a href="https://www.w3schools.com/cs/" rel="nofollow">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" style="max-width: 100%;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" style="width: 40px;">
     </a>
   </span>
   </p>
