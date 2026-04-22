@@ -17,8 +17,8 @@
 <p align="center">
   <a href="https://www.facebook.com/bon.1303/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" alt="facebook logo"  />
-    &nbsp;
   </a>
+  &nbsp;
   <a href="mailto:tuannha.ber133@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="gmail logo"  />
   </a>
