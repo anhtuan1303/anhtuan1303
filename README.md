@@ -155,5 +155,8 @@
 ###
 
 <h4 align="left">🔥   My Stats :</h4>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhtuan1303&show_icons=true&locale=en&layout=compact" alt="anhtuan1303" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anhtuan1303&show_icons=true&locale=en" alt="anhtuan1303" /></p>
 
 ###
