@@ -1,4 +1,4 @@
-<img width="1143" height="880" alt="image" src="https://github.com/user-attachments/assets/07d2bb2c-0c0a-4912-aafe-508244efd3b9" /><h1 align="center">Hi 👋, I'm Nguyen Huu Anh Tuan</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Huu Anh Tuan</h1>
 - 🔭 I’m currently studying at [FPT University Da Nang](https://www.facebook.com/daihocfptdanang)
 
 - ⚡ In my free time **I read manga, hang out with my friends, or do volunteer works**
