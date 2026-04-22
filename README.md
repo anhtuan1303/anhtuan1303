@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">Programming languages</p>
+<h4 align="left">Programming languages</h4>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">Frameworks</p>
+<h4 align="left">Frameworks</h4>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<p align="left">Libraries</p>
+<h4 align="left">Libraries</h4>
 
 ###
 
@@ -94,7 +94,7 @@
 
 ###
 
-<p align="left">Database and Cloud Services</p>
+<h4 align="left">Database and Cloud Services</h4>
 
 ###
 
@@ -118,7 +118,7 @@
 
 ###
 
-<p align="left">Softwares and Tools</p>
+<h4 align="left">Softwares and Tools</h4>
 
 ###
 
@@ -154,6 +154,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h4 align="left">🔥   My Stats :</h4>
 
 ###
