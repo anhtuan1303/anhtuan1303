@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, 👋 I'm Nguyen Huu Anh Tuan</h1>
+<h1 align="center">Hi, 👋 I'm Nguyen Huu Anh Tuan</h1>
 
 ###
 
@@ -151,4 +151,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-###
